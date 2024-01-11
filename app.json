@@ -1,0 +1,5 @@
+{
+  "pages": ["barrage/index"],
+  "debug": true,
+  "lazyCodeLoading": "requiredComponents"
+}
